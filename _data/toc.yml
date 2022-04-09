@@ -1,7 +1,7 @@
 - title: Documentation
   url: docs
   links:
-    - title: "Java"
+    - title: "java_basic"
       url: "docs/java_basic/java_doc_01"
       children:
         - title: "1.자바를 시작하기 전에."
