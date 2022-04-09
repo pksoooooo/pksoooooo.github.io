@@ -1,5 +1,4 @@
 ---
-title: Java
 tags: 
  - pksoooooo
  - github
