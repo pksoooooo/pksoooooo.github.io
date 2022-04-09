@@ -2,7 +2,7 @@
 tags: 
  - pksoooooo
  - github  
-title: 1. 자바를 시작하기 전에 
+title: test
 description: Java Jungsuck study
 ---
 
