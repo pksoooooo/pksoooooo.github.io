@@ -1,12 +1,12 @@
 - title: Documentation
   url: docs
   links:
-    - title: Java
-      url: docs/Java/1. 자바를 시작하기 전에
+    - title: "Java"
+      url: "docs/Java/test"
       children:
-        - title: 1. 자바를 시작하기 전에
-          url: docs/Java/test
-        - title: 2. 변수
+        - title: "1. 자바를 시작하기 전에"
+          url: "docs/Java/test"
+        - title: "2. 변수"
           url: "docs/Java/2. 변수"
         - title: "3. 연산자"
           url: "docs/Java/3. 연산자"
@@ -16,15 +16,16 @@
           url: "docs/Java/5. 배열"
         - title: "6. 객체지향 프로그래밍 1"
           url: "docs/Java/6. 객체지향 프로그래밍 1"
-#    - title: "About"
-#      url: "about"
-#    - title: "News"
-#      url: "news"
-#- title: "Extras"
-#  url: "docs/extras"
-#  links:
-#    - title: Quizzes
-#      url: "docs/extras/example-quiz"
-#    - title: Tags Page
-#      url: "tags"
+
+    - title: "About"
+      url: "about"
+    - title: "News"
+      url: "news"
+- title: "Extras"
+  url: "docs/extras"
+  links:
+    - title: Quizzes
+      url: "docs/extras/example-quiz"
+    - title: Tags Page
+      url: "tags"
 
