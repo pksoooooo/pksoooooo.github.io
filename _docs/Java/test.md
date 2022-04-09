@@ -2,7 +2,7 @@
 tags: 
  - pksoooooo
  - github
-description: Java Jungsuck Studty
+description: Java Jungsuck study
 ---
 
 # 1. 자바(Java Programming Language)
