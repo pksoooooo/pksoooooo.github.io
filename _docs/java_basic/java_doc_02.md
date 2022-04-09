@@ -6,7 +6,6 @@ tags:
 description: Java Jungsuck Study
 ---
 
-
 # 1. 변수
 
 ## 1.1 변수 란?
