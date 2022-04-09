@@ -1,8 +1,8 @@
 - title: Documentation
   url: docs
   links:
-    - title: "java_basic"
-      url: "docs/java_basic/java_doc_01"
+    - title: "Java"
+      url: "docs/Java/1. 자바를 시작하기 전에"
       children:
         - title: "1. 자바를 시작하기 전에"
           url: "docs/Java/1. 자바를 시작하기 전에"
