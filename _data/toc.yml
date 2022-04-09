@@ -4,6 +4,8 @@
     - title: Java
       url: docs/Java/1. 자바를 시작하기 전에
       children:
+        - title: test
+          url: test
         - title: 1. 자바를 시작하기 전에
           url: docs/Java/1. 자바를 시작하기 전에
         - title: 2. 변수
