@@ -4,7 +4,7 @@
     - title: "Java"
       url: "docs/Java/test"
       children:
-        - title: "test"
+        - title: "1. 자바를 시작하기 전에"
           url: "docs/Java/test"
         - title: "2.변수"
           url: "docs/Java/2. 변수"
