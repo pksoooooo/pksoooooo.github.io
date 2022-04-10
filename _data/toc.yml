@@ -2,9 +2,9 @@
   url: docs
   links:
     - title: "Java"
-      url: "docs/Java/1. 자바를 시작하기 전에"
+      url: "docs/Java/01.javajungsuk"
       children:
-        - title: "1. 자바를 시작하기 전에"
+        - title: "1.자바를 시작하기 전에"
           url: "docs/Java/01.javajungsuk"
         - title: "2.변수"
           url: "docs/Java/02.javajungsuk"
