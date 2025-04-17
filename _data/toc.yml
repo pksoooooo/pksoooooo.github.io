@@ -29,5 +29,5 @@
         - title: "백준"
           url: "docs/algorithm/BOJ29723"
           children:
-            - title: "[Silver V] 브실이의 입시전략 - 29723"
+            - title: "29723"
               url: "docs/algorithm/BOJ29723"
