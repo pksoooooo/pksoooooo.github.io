@@ -26,5 +26,5 @@
     - title: "Algorithm"
       url: "docs/algorithm/BOJ29723"
       children:
-        - title: "비실이"
+        - title: "[Silver V] 브실이의 입시전략 - 29723"
           url: "docs/algorithm/BOJ29723"
