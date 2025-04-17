@@ -1,3 +1,9 @@
+---
+layout: page
+title: Documentation
+permalink: /docs/
+---
+
 ## 자바 중급 1편 - Object 클래스
 
 ---
