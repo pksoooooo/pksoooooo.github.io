@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Documentation
-permalink: /docs/
+tags: 
+ - pksoooooo
+ - github
+title: Object
+description: Object Class
 ---
 
 ## 자바 중급 1편 - Object 클래스
