@@ -22,3 +22,9 @@
       children:
         - title: "Object Class"
           url: "docs/javaMiddle1/object"
+    
+    - title: "Algorithm"
+      url: "docs/algorithm/BOJ29723"
+      children:
+        - title: "비실이"
+          url: "docs/algorithm/BOJ29723"
