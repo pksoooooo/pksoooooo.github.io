@@ -16,7 +16,7 @@
           url: "docs/Java/05.javajungsuk"
         - title: "6.객체지향 프로그래밍 1"
           url: "docs/Java/06.javajungsuk"
-      - title: "자바 중급 1"
+    - title: "자바 중급 1"
       url: "docs/javaMiddel1/Object 클래스.md"
       children:
         - title: "Object Class"
