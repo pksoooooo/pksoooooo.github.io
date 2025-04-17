@@ -22,26 +22,3 @@
       children:
         - title: "Object Class"
           url: "docs/javaMiddle1/object"
-        # - title: "2.변수"
-        #   url: "docs/Java/02.javajungsuk"
-        # - title: "3.연산자"
-        #   url: "docs/Java/03.javajungsuk"
-        # - title: "4.조건문과 반복문"
-        #   url: "docs/Java/04.javajungsuk"
-        # - title: "5.배열"
-        #   url: "docs/Java/05.javajungsuk"
-        # - title: "6.객체지향 프로그래밍 1"
-        #   url: "docs/Java/06.javajungsuk"
-
-#    - title: "About"
-#      url: "about"
-#    - title: "News"
-#      url: "news"
-#- title: "Extras"
-#  url: "docs/extras"
-#  links:
-#    - title: Quizzes
-#      url: "docs/extras/example-quiz"
-#    - title: Tags Page
-#      url: "tags"
-

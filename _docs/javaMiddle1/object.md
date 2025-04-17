@@ -6,7 +6,7 @@ title: Object
 description: Object Class
 ---
 
-## 자바 중급 1편 - Object 클래스
+# 자바 중급 1편 - Object 클래스
 
 ---
 
